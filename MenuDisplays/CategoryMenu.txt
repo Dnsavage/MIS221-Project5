@@ -1,0 +1,40 @@
+1#1#Please select a category:
+1#2#1.) Events
+1#2#2.) Food/Drink
+1#2#3.) Games
+1#2#4.) Museums
+1#2#5.) Nature
+1#2#6.) Nightlife
+1#2#7.) Shopping
+1#2#8.) Tours
+1#2#9.) Workshops
+2#1#Porfavor seleccione una categoría:
+2#2#1.) Eventos
+2#2#2.) Comida/bebida
+2#2#3.) Juegos
+2#2#4.) Museos
+2#2#5.) Naturaleza
+2#2#6.) La-vida-nocturna
+2#2#7.) Compras
+2#2#8.) Excursiones
+2#2#9.) Talleres-de-trabajo
+3#1#Veuillez sélectionner une catégorie:
+3#2#1.) Événements
+3#2#2.) Nourriture-boisson
+3#2#3.) Jeux
+3#2#4.) Musées
+3#2#5.) La-nature
+3#2#6.) Vie-nocturne
+3#2#7.) Achats
+3#2#8.) Visites
+3#2#9.) Ateliers
+4#1#Bitte wählen sie eine Kategorie:
+4#2#1.) Veranstaltungen
+4#2#2.) Essen/Getränke
+4#2#3.) Spiele
+4#2#4.) Museen
+4#2#5.) Natur
+4#2#6.) Nachtleben
+4#2#7.) Das-Einkaufen
+4#2#8.) Touren
+4#2#9.) Workshops

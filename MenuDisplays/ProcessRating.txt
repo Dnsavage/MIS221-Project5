@@ -1,0 +1,24 @@
+1#1#How would you rate this activity?
+1#2#1.) 5 Stars
+1#2#2.) 4 Stars
+1#2#3.) 3 Stars
+1#2#4.) 2 Stars
+1#2#5.) 1 Star
+2#1#¿Cómo calificaría esta actividad?
+2#2#1.) 5 estrellas
+2#2#2.) 4 estrellas
+2#2#3.) 3 estrellas
+2#2#4.) 2 estrellas
+2#2#5.) 1 estrella
+3#1#Comment évalueriez-vous cette activité ?
+3#2#1.) 5 étoiles
+3#2#2.) 4 étoiles
+3#2#3.) 3 étoiles
+3#2#4.) 2 étoiles
+3#2#5.) 1 étoile
+4#1#Wie würden Sie diese Aktivität bewerten?
+4#2#1.) 5 Sterne
+4#2#2.) 4 Sterne
+4#2#3.) 3 Sterne
+4#2#4.) 2 Sterne
+4#2#5.) 1 Stern

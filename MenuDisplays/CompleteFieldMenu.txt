@@ -1,0 +1,28 @@
+1#1#Select a field to edit or return to Completions Menu
+1#2#1.) Date Completed
+1#2#2.) Money Spent
+1#2#3.) Rating
+1#2#4.) Review
+1#2#5.) Recommendation
+1#2#6.) Completions Menu
+2#1#Seleccione un campo para editar o volver al menú de finalizaciones
+2#2#1.) Fecha de finalización
+2#2#2.) Dinero gastado
+2#2#3.) Clasificación
+2#2#4.) Revisar
+2#2#5.) Recomendación
+2#2#6.) Menú de finalizaciones
+3#1#Sélectionnez un champ à modifier ou retournez au menu Complétions
+3#2#1.) Rendez-vous complet
+3#2#2.) Argent dépensé
+3#2#3.) Évaluation
+3#2#4.) Revoir
+3#2#5.) Recommandation
+3#2#6.) Menu Achèvements
+4#1#Wählen Sie ein Feld zum Bearbeiten aus oder kehren Sie zum Abschlussmenü zurück
+4#2#1.) Datum der Fertigstellung
+4#2#2.) Geld ausgegeben
+4#2#3.) Bewertung
+4#2#4.) Rezension
+4#2#5.) Empfehlung
+4#2#6.) Abschlussmenü

@@ -1,0 +1,20 @@
+1#1#Please make a selection:
+1#2#1.) View Activities
+1#2#2.) Add Activities
+1#2#3.) Edit Activities
+1#2#4.) Main Menu
+2#1#Por favor haz una selección:
+2#2#1.) Ver actividades
+2#2#2.) Agregar actividades
+2#2#3.) Editar actividades
+2#2#4.) Menú principal
+3#1#Veuillez faire une sélection :
+3#2#1.) Voir les activités
+3#2#2.) Ajouter des activités
+3#2#3.) Modifier les activités
+3#2#4.) Menu principal
+4#1#Bitte triff eine Auswahl:
+4#2#1.) Aktivitäten anzeigen
+4#2#2.) Aktivitäten hinzufügen
+4#2#3.) Aktivitäten bearbeiten
+4#2#4.) Hauptmenü

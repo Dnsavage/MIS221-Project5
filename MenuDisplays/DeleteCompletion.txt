@@ -1,0 +1,12 @@
+1#1#Are you sure you wish to delete this completion?
+1#2#1.) Yes
+1#2#2.) No
+2#1#¿Estás seguro de que deseas eliminar esta finalización?
+2#2#1.) sí
+2#2#2.) No
+3#1#Êtes-vous sûr de vouloir supprimer cet achèvement ?
+3#2#1.) Oui
+3#2#2.) Non
+4#1#Möchten Sie diese Vervollständigung wirklich löschen?
+4#2#1.) Jawohl
+4#2#2.) Nein

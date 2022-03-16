@@ -1,0 +1,16 @@
+1#1#Would you like to edit or delete this activity?
+1#2#1.) Edit
+1#2#2.) Delete
+1#2#3.) Activity Menu
+2#1#¿Le gustaría editar o eliminar esta actividad?
+2#2#1.) Editar
+2#2#2.) Borrar
+2#2#3.) Menú de actividades
+3#1#Souhaitez-vous modifier ou supprimer cette activité ?
+3#2#1.) Éditer
+3#2#2.) Effacer
+3#2#3.) Menu Activité
+4#1#Möchten Sie diese Aktivität bearbeiten oder löschen?
+4#2#1.) Bearbeiten
+4#2#2.) Löschen
+4#2#3.) Aktivitätsmenü

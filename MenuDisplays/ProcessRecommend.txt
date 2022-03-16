@@ -1,0 +1,12 @@
+1#1#Would you recommend this activity to a friend?
+1#2#1.) Yes
+1#2#2.) No
+2#1#¿Recomendarías esta actividad a un amigo?
+2#2#1.) sí
+2#2#2.) No
+3#1#Recommanderiez-vous cette activité à un ami ?
+3#2#1.) Oui
+3#2#2.) Non
+4#1#Würden Sie diese Aktivität einem Freund empfehlen?
+4#2#1.) Jawohl
+4#2#2.) Nein

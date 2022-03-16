@@ -1,0 +1,16 @@
+1#1#Would you like to edit or delete this vacation?
+1#2#1.) Edit
+1#2#2.) Delete
+1#2#3.) Vacation Menu
+2#1#¿Le gustaría editar o eliminar estas vacaciones?
+2#2#1.) Editar
+2#2#2.) Borrar
+2#2#3.) Menú de vacaciones
+3#1#Souhaitez-vous modifier ou supprimer ces vacances ?
+3#2#1.) Éditer
+3#2#2.) Effacer
+3#2#3.) Menu Vacances
+4#1#Möchten Sie diesen Urlaub bearbeiten oder löschen?
+4#2#1.) Bearbeiten
+4#2#2.) Löschen
+4#2#3.) Urlaubsmenü

@@ -1,0 +1,20 @@
+1#1#Deleting this vacation will clear all activities and completions.
+1#1#Report files will remain unchanged until new ones are generated.
+1#1#Are you sure you want to delete this vacation?
+1#2#1.) Yes
+1#2#2.) No
+2#1#Al eliminar estas vacaciones, se borrarán todas las actividades y finalizaciones.
+2#1#Los archivos de informe permanecerán sin cambios hasta que se generen otros nuevos.
+2#1#¿Estás seguro de que deseas eliminar estas vacaciones?
+2#2#1.) sí
+2#2#2.) No
+3#1#La suppression de ces vacances effacera toutes les activités et les achèvements.
+3#1#Les fichiers de rapport resteront inchangés jusqu'à ce que de nouveaux soient générés.
+3#1#Voulez-vous vraiment supprimer ces vacances ?
+3#2#1.) Oui
+3#2#2.) Non
+4#1#Wenn Sie diesen Urlaub löschen, werden alle Aktivitäten und Abschlüsse gelöscht.
+4#1#Berichtsdateien bleiben unverändert, bis neue generiert werden.
+4#1#Möchten Sie diesen Urlaub wirklich löschen?
+4#2#1.) Jawohl
+4#2#2.) Nein

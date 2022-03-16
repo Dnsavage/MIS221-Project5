@@ -1,0 +1,32 @@
+1#1#Please select a field to edit or return to the activity menu.
+1#2#1.) Name
+1#2#2.) Category
+1#2#3.) Minimum Price
+1#2#4.) Maximum Price
+1#2#5.) Time Needed
+1#2#6.) Ticket Necessity
+1#2#7.) Activity Menu
+2#1#Seleccione un campo para editar o volver al menú de actividades.
+2#2#1.) Nombre
+2#2#2.) Categoría
+2#2#3.) Precio mínimo
+2#2#4.) Precio Máximo
+2#2#5.) Tiempo necesario
+2#2#6.) Necesidad de entradas
+2#2#7.) Menú de actividades
+3#1#Veuillez sélectionner un champ à modifier ou revenir au menu des activités.
+3#2#1.) Nom
+3#2#2.) Catégorie
+3#2#3.) Prix ​​minimum
+3#2#4.) Prix ​​maximum
+3#2#5.) Temps nécessaire
+3#2#6.) Nécessité de billets
+3#2#7.) Menu Activité
+4#1#Bitte wählen Sie ein Feld zum Bearbeiten aus oder kehren Sie zum Aktivitätsmenü zurück.
+4#2#1.) Name
+4#2#2.) Kategorie
+4#2#3.) Minimaler Preis
+4#2#4.) Höchstpreis
+4#2#5.) Benötigte Zeit
+4#2#6.) Ticketnotwendigkeit
+4#2#7.) Aktivitätsmenü

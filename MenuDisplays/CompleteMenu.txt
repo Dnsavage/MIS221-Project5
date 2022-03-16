@@ -1,0 +1,20 @@
+1#1#Would you like to add, edit, or delete a completion?
+1#2#1.) Add completion
+1#2#2.) Edit completion
+1#2#3.) Delete completion
+1#2#4.) Main Menu
+2#1#¿Le gustaría agregar, editar o eliminar una finalización?
+2#2#1.) Agregar finalización
+2#2#2.) Editar finalización
+2#2#3.) Eliminar finalización
+2#2#4.) Menú principal
+3#1#Souhaitez-vous ajouter, modifier ou supprimer une complétion ?
+3#2#1.) Ajouter la complétion
+3#2#2.) Modifier l'achèvement
+3#2#3.) Supprimer l'achèvement
+3#2#4.) Menu principal
+4#1#Möchten Sie eine Vervollständigung hinzufügen, bearbeiten oder löschen?
+4#2#1.) Abschluss hinzufügen
+4#2#2.) Abschluss bearbeiten
+4#2#3.) Abschluss löschen
+4#2#4.) Hauptmenü

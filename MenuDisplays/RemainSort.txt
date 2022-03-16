@@ -1,0 +1,52 @@
+1#1#How would you like your remaining activities sorted?
+1#2#1.) View All
+1#2#2.) By Category (Ascending)
+1#2#3.) By Category (Descending)
+1#2#4.) By Time Needed (Ascending)
+1#2#5.) By Time Needed (Descending)
+1#2#6.) By Minimum Price (Ascending)
+1#2#7.) By Minimum Price (Descending)
+1#2#8.) By Maximum Price (Ascending)
+1#2#9.) By Maximum Price (Descending)
+1#2#10.) By The Need For Tickets (Ascending)
+1#2#11.) By The Need For Tickets (Descending)
+1#2#12.) Main Menu
+2#1#¿Cómo le gustaría que se ordenaran sus actividades restantes?
+2#2#1.) Ver todo
+2#2#2.) Por categoría (ascendente)
+2#2#3.) Por categoría (descendente)
+2#2#4.) Por tiempo necesario (ascendente)
+2#2#5.) Por tiempo necesario (descendente)
+2#2#6.) Por precio mínimo (ascendente)
+2#2#7.) Por precio mínimo (descendente)
+2#2#8.) Por precio máximo (ascendente)
+2#2#9.) Por precio máximo (descendente)
+2#2#10.) Por la necesidad de boletos (ascendente)
+2#2#11.) Por la necesidad de boletos (descendente)
+2#2#12.) Menú principal
+3#1#Comment aimeriez-vous que vos activités restantes soient triées ?
+3#2#1.) Voir tout
+3#2#2.) Par catégorie (Ascendant)
+3#2#3.) Par catégorie (Descendant)
+3#2#4.) Par temps nécessaire (Ascendant)
+3#2#5.) Par temps nécessaire (Descendant)
+3#2#6.) Par prix minimum (Ascendant)
+3#2#7.) Par prix minimum (Descendant)
+3#2#8.) Par prix maximum (Ascendant)
+3#2#9.) Par prix maximum (Descendant)
+3#2#10.) Par le besoin de billets (Ascendant)
+3#2#11.) Par le besoin de billets (Descendant)
+3#2#12.) Menu principal
+4#1#Wie möchten Sie Ihre restlichen Aktivitäten sortiert haben?
+4#2#1.) Alle ansehen
+4#2#2.) Nach Kategorie (aufsteigend)
+4#2#3.) Nach Kategorie (absteigend)
+4#2#4.) Nach benötigter Zeit (aufsteigend)
+4#2#5.) Nach benötigter Zeit (absteigend)
+4#2#6.) Nach Mindestpreis (aufsteigend)
+4#2#7.) Nach Mindestpreis (absteigend)
+4#2#8.) Nach Höchstpreis (aufsteigend)
+4#2#9.) Nach Höchstpreis (absteigend)
+4#2#10.) Nach Ticketbedarf (aufsteigend)
+4#2#11.) Nach Ticketbedarf (absteigend)
+4#2#12.) Hauptmenü

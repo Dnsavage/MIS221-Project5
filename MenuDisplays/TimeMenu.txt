@@ -1,0 +1,16 @@
+1#1#Will this take minutes, hours, or days?
+1#2#1.) Minutes
+1#2#2.) Hours
+1#2#3.) Days
+2#1#¿Tardará minutos, horas o días?
+2#2#1.) Minutos
+2#2#2.) Horas
+2#2#3.) Dias
+3#1#Cela prendra-t-il des minutes, des heures ou des jours ?
+3#2#1.) Minutes
+3#2#2.) Les heures
+3#2#3.) Jours
+4#1#Wird das Minuten, Stunden oder Tage dauern?
+4#2#1.) Protokoll
+4#2#2.) Std
+4#2#3.) Tage

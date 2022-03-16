@@ -1,0 +1,24 @@
+1#1#Please select a report to view.
+1#2#1.) Day-by-Day Summary
+1#2#2.) Favorite Activities
+1#2#3.) Incomplete Activities
+1#2#4.) Recommendations
+1#2#5.) Spending Report
+2#1#Seleccione un informe para ver.
+2#2#1.) Resumen día a día
+2#2#2.) Actividades favoritas
+2#2#3.) Actividades incompletas
+2#2#4.) Recomendaciones
+2#2#5.) Reporte de gastos
+3#1#Veuillez sélectionner un rapport à afficher.
+3#2#1.) Résumé au jour le jour
+3#2#2.) Activités favorites
+3#2#3.) Activités incomplètes
+3#2#4.) Recommandations
+3#2#5.) Rapport de dépenses
+4#1#Bitte wählen Sie einen Bericht zum Anzeigen aus.
+4#2#1.) Tagesübersicht
+4#2#2.) Lieblingsaktivitäten
+4#2#3.) Unvollständige Aktivitäten
+4#2#4.) Empfehlungen
+4#2#5.) Ausgabenbericht

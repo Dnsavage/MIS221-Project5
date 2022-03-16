@@ -1,0 +1,24 @@
+1#1#Please select a field to edit or return to the vacation menu.
+1#2#1.) Destination
+1#2#2.) Start Date
+1#2#3.) End Date
+1#2#4.) Budget
+1#2#5.) Vacation Menu
+2#1#Seleccione un campo para editar o volver al menú de vacaciones.
+2#2#1.) Destino
+2#2#2.) Fecha de inicio
+2#2#3.) Fecha final
+2#2#4.) Presupuesto
+2#2#5.) Menú de vacaciones
+3#1#Veuillez sélectionner un champ à modifier ou revenir au menu vacances.
+3#2#1.) Destination
+3#2#2.) Date de début
+3#2#3.) Date de fin
+3#2#4.) Budget
+3#2#5.) Menu Vacances
+4#1#Bitte wählen Sie ein Feld zum Bearbeiten oder kehren Sie zum Urlaubsmenü zurück.
+4#2#1.) Ziel
+4#2#2.) Startdatum
+4#2#3.) Endtermin
+4#2#4.) Budget
+4#2#5.) Urlaubsmenü

@@ -1,0 +1,16 @@
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\bin\Debug\net5.0\mis221-pa5-Dnsavage.exe
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\bin\Debug\net5.0\mis221-pa5-Dnsavage.deps.json
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\bin\Debug\net5.0\mis221-pa5-Dnsavage.runtimeconfig.json
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\bin\Debug\net5.0\mis221-pa5-Dnsavage.runtimeconfig.dev.json
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\bin\Debug\net5.0\mis221-pa5-Dnsavage.dll
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\bin\Debug\net5.0\ref\mis221-pa5-Dnsavage.dll
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\bin\Debug\net5.0\mis221-pa5-Dnsavage.pdb
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\obj\Debug\net5.0\mis221-pa5-Dnsavage.csproj.AssemblyReference.cache
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\obj\Debug\net5.0\mis221-pa5-Dnsavage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\obj\Debug\net5.0\mis221-pa5-Dnsavage.AssemblyInfoInputs.cache
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\obj\Debug\net5.0\mis221-pa5-Dnsavage.AssemblyInfo.cs
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\obj\Debug\net5.0\mis221-pa5-Dnsavage.csproj.CoreCompileInputs.cache
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\obj\Debug\net5.0\mis221-pa5-Dnsavage.dll
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\obj\Debug\net5.0\ref\mis221-pa5-Dnsavage.dll
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\obj\Debug\net5.0\mis221-pa5-Dnsavage.pdb
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\mis221-pa5-Dnsavage\obj\Debug\net5.0\mis221-pa5-Dnsavage.genruntimeconfig.cache

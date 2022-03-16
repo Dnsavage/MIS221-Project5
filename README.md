@@ -1,1 +1,2 @@
-# MIS221-Project5
+# blank-starter
+# Starter repo for projects and exams.

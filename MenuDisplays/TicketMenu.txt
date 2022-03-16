@@ -1,0 +1,12 @@
+1#1#Does this activity require tickets?
+1#2#1.) Yes
+1#2#2.) No
+2#1#¿Esta actividad requiere entradas?
+2#2#1.) sí
+2#2#2.) No
+3#1#Cette activité nécessite-t-elle des billets ?
+3#2#1.) Oui
+3#2#2.) Non
+4#1#Sind für diese Aktivität Tickets erforderlich?
+4#2#1.) Jawohl
+4#2#2.) Nein

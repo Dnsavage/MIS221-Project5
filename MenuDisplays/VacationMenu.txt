@@ -1,0 +1,16 @@
+1#1#Please make a selection:
+1#2#1.) Add vacation
+1#2#2.) Edit vacation
+1#2#3.) Main Menu
+2#1#Por favor haz una selección:
+2#2#1.) Agregar vacaciones
+2#2#2.) Editar vacaciones
+2#2#3.) Menú principal
+3#1#Veuillez faire une sélection :
+3#2#1.) Ajouter des vacances
+3#2#2.) Modifier les vacances
+3#2#3.) Menu principal
+4#1#Bitte triff eine Auswahl:
+4#2#1.) Urlaub hinzufügen
+4#2#2.) Urlaub bearbeiten
+4#2#3.) Hauptmenü

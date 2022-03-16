@@ -1,0 +1,36 @@
+1#1#Welcome to the vacation planner!
+1#1#Please make a selection:
+1#2#1.) Vacation Details
+1#2#2.) Activity List
+1#2#3.) View remaining activities
+1#2#4.) Complete activities
+1#2#5.) Select a summary report
+1#2#6.) Change Language
+1#2#7.) Exit
+2#1#¡Bienvenido al planificador de vacaciones!
+2#1#Por favor haz una selección:
+2#2#1.) Detalles de vacaciones
+2#2#2.) Lista de actividades
+2#2#3.) Ver actividades restantes
+2#2#4.) Actividades completas
+2#2#5.) Seleccione un informe resumido
+2#2#6.) Cambiar idioma
+2#2#7.) Salida
+3#1#Bienvenue dans le planificateur de vacances !
+3#1#Veuillez faire une sélection :
+3#2#1.) Détails des vacances
+3#2#2.) Liste des activités
+3#2#3.) Voir les activités restantes
+3#2#4.) Activités complètes
+3#2#5.) Sélectionnez un rapport de synthèse
+3#2#6.) Changer de langue
+3#2#7.) Sortir
+4#1#Willkommen beim Urlaubsplaner!
+4#1#Bitte triff eine Auswahl:
+4#2#1.) Urlaubsdetails
+4#2#2.) Aktivitätsliste
+4#2#3.) Verbleibende Aktivitäten anzeigen
+4#2#4.) Komplette Aktivitäten
+4#2#5.) Wählen Sie einen zusammenfassenden Bericht aus
+4#2#6.) Sprache ändern
+4#2#7.) Ausgang

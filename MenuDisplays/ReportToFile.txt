@@ -1,0 +1,12 @@
+1#1#Would you like to save this report to a file?
+1#2#1.) Yes
+1#2#2.) No
+2#1#¿Le gustaría guardar este informe en un archivo?
+2#2#1.) sí
+2#2#2.) No
+3#1#Souhaitez-vous enregistrer ce rapport dans un fichier ?
+3#2#1.) Oui
+3#2#2.) Non
+4#1#Möchten Sie diesen Bericht in einer Datei speichern?
+4#2#1.) Jawohl
+4#2#2.) Nein
